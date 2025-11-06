@@ -18,9 +18,6 @@ Quotes-Scraping/
 └── notebook.ipynb         # Notebook for exploration (if used)
 ```
 
-## Requirements
-- Python 3.8+
-- pip installed
 
 ## Installation
 ```bash
