@@ -1,9 +1,10 @@
 # Quotes-Scraping 🌐
-<img width="942" height="199" alt="image" src="https://github.com/user-attachments/assets/bd67412d-266c-411d-9aa5-63cfaea5d2f8" />
-
 
 ## Description
 This project scrapes quotes from the website `https://quotes.toscrape.com/` and stores the extracted data in a JSON file. A FastAPI service is then used to expose this data so it can be reused in other applications.
+
+<img width="942" height="199" alt="image" src="https://github.com/user-attachments/assets/bd67412d-266c-411d-9aa5-63cfaea5d2f8" />
+
 
 ## Features
 - Scrape quotes (text + author + tags)
@@ -53,6 +54,9 @@ API available at:
 http://127.0.0.1:8001
 ```
 
+<img width="941" height="264" alt="image" src="https://github.com/user-attachments/assets/6592c9ef-d2ab-41ab-bee1-d6b7de6ea399" />
+
+
 ## API Endpoints
 | Method | Route | Description |
 |--------|-------|-------------|
@@ -60,7 +64,6 @@ http://127.0.0.1:8001
 | GET    | `/items` | Returns all quotes |
 | GET    | `/items/{id}` | Returns a specific quote by its ID |
 
-<img width="941" height="264" alt="image" src="https://github.com/user-attachments/assets/6592c9ef-d2ab-41ab-bee1-d6b7de6ea399" />
 
 
 ### Example Response for `/items/2`
