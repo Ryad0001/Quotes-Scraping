@@ -4,7 +4,7 @@
 This project scrapes quotes from the website `https://quotes.toscrape.com/` and stores the extracted data in a JSON file. A FastAPI service is then used to expose this data so it can be reused in other applications.
 
 ## Features
-- Scrape quotes (text + author)
+- Scrape quotes (text + author + tags)
 - Store the result in `quotes.json`
 - Provide a simple API using FastAPI
 
@@ -12,9 +12,10 @@ This project scrapes quotes from the website `https://quotes.toscrape.com/` and 
 ```
 Quotes-Scraping/
 │
-├── main.py                # Main script (scraping + API)
+├── main.py                # Main script API
+├── scrape_quotes.py       # Scraping script
 ├── quotes.json            # JSON file containing scraped quotes
-├── requirements.txt       # List of dependencies (optional if present)
+├── requirements.txt       # List of dependencies
 └── notebook.ipynb         # Notebook for exploration (if used)
 ```
 
@@ -26,7 +27,7 @@ cd Quotes-Scraping
 python -m venv venv
 source venv/bin/activate        # macOS / Linux
 venv\Scripts\activate         # Windows
-pip install -r requirements.txt # if this file exists
+pip install -r requirements.txt 
 ```
 
 If you do not have a `requirements.txt`, install manually:
@@ -36,7 +37,7 @@ pip install fastapi uvicorn requests beautifulsoup4
 
 ## Run the Scraper
 ```bash
-python main.py
+python scrape_quotes.py
 ```
 This will create or update the `quotes.json` file.
 
@@ -60,17 +61,13 @@ http://127.0.0.1:8001
 ### Example Response for `/items/2`
 ```json
 {
-  "id": 2,
-  "quote": "Life is beautiful.",
-  "author": "Sample Author"
+ "id": 2,
+    "Quote": "“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
+    "Author": "J.K. Rowling",
+    "Tags": [
+      "abilities",
+      "choices"
 }
-```
-
-## Contribution
-Contributions are welcome.  
-Workflow:
-```
-fork → create branch → commit changes → open pull request
 ```
 
 ## License
