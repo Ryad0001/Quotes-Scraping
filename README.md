@@ -1,7 +1,7 @@
 # Quotes-Scraping 🌐
 
 
-https://github.com/user-attachments/assets/fdfe199b-7127-4aaf-b404-4f932629e234
+https://github.com/user-attachments/assets/e9877871-40e3-4921-bad2-cb5e49b4df31
 
 
 ## Description
