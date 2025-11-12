@@ -61,10 +61,6 @@ http://127.0.0.1:8001
 
 <img width="941" height="264" alt="image" src="https://github.com/user-attachments/assets/6592c9ef-d2ab-41ab-bee1-d6b7de6ea399" />
 
-## Run the web app
-```bash
-streamlit run app.py
-```
 
 
 ## API Endpoints
@@ -87,6 +83,14 @@ streamlit run app.py
       "choices"
 }
 ```
+
+## Run the web app
+```bash
+streamlit run app.py
+```
+
+<img width="950" height="387" alt="image" src="https://github.com/user-attachments/assets/58382812-07ce-4c0d-9532-8012618e2917" />
+
 
 ## License
 Free to use for educational purposes.
