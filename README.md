@@ -94,4 +94,4 @@ streamlit run app.py
 
 
 ## License
-Free to use for educational purposes.
+![linkdin](https://img.shields.io/badge/linkdin-000000?style=for-the-badge&logo=linkdin&logoColor=white)
