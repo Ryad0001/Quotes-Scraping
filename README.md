@@ -20,6 +20,7 @@ This project scrapes quotes from the website `https://quotes.toscrape.com/` and 
 Quotes-Scraping/
 │
 ├── main.py                # Main script API
+├── app.py                 # Fronted interface Streamlit web app
 ├── scrape_quotes.py       # Scraping script
 ├── quotes.json            # JSON file containing scraped quotes
 ├── requirements.txt       # List of dependencies
@@ -59,6 +60,11 @@ http://127.0.0.1:8001
 ```
 
 <img width="941" height="264" alt="image" src="https://github.com/user-attachments/assets/6592c9ef-d2ab-41ab-bee1-d6b7de6ea399" />
+
+## Run the web app
+```bash
+streamlit run app.py
+```
 
 
 ## API Endpoints
