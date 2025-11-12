@@ -98,5 +98,5 @@ streamlit run app.py
 You liked this project ? Lets connect on Linkdin !
 https://www.linkedin.com/in/ryad-murad-26b962210/
 
-[![linkedin]([app-generated-ur](https://linkedin-github-readme.onrender.com/api/render/Murad/Data/intern/master/light/https%3A%2F%2Fmedia.licdn.com%2Fmedia%2FAAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)l)]([your-linkedin-profile-url](https://www.linkedin.com/in/ryad-murad-26b962210/))
+[![linkedin]([app-generated-ur]([(https://www.linkedin.com/in/ryad-murad-26b962210/)])
 
