@@ -1,19 +1,20 @@
 # Quotes-Scraping 🌐
 
 
-https://github.com/user-attachments/assets/e9877871-40e3-4921-bad2-cb5e49b4df31
-
-
 ## Description
 This project scrapes quotes from the website `https://quotes.toscrape.com/` and stores the extracted data in a JSON file. A FastAPI service is then used to expose this data so it can be reused in other applications.
 
 <img width="942" height="199" alt="image" src="https://github.com/user-attachments/assets/bd67412d-266c-411d-9aa5-63cfaea5d2f8" />
+
+https://github.com/user-attachments/assets/e9877871-40e3-4921-bad2-cb5e49b4df31
 
 
 ## Features
 - Scrape quotes (text + author + tags)
 - Store the result in `quotes.json`
 - Provide a simple API using FastAPI
+- Provide a web app using Streamlit
+
 
 ## Project Structure
 ```
