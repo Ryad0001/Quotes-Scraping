@@ -95,8 +95,7 @@ streamlit run app.py
 
 ## Contact <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9baad915-5130-4652-a297-369a8594df42" />
 
-You liked this project ? Lets connect on Linkdin !
-https://www.linkedin.com/in/ryad-murad-26b962210/
+You liked this project ? Lets connect on Linkedin !
 
 [![linkedin](https://linkedin-github-readme.onrender.com/api/render/Ryad%20MURAD/Data%20Engineer/Sanofi/Master%20Degree/light/https%3A%2F%2Fmedia.licdn.com%2Fmedia%2FAAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png)](https://www.linkedin.com/in/ryad-murad-26b962210/)
 
