@@ -94,4 +94,5 @@ streamlit run app.py
 
 
 ## License
-![linkdin](https://img.shields.io/badge/linkdin-000000?style=for-the-badge&logo=linkdin&logoColor=white)
+You liked this project ? Lets connect on Linkdin !
+https://www.linkedin.com/in/ryad-murad-26b962210/
