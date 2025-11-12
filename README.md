@@ -93,6 +93,7 @@ streamlit run app.py
 <img width="950" height="387" alt="image" src="https://github.com/user-attachments/assets/58382812-07ce-4c0d-9532-8012618e2917" />
 
 
+## Contact
 
 You liked this project ? Lets connect on Linkedin !
 
